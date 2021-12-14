@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
-
+//Joao Silvestre
 int main()
 {
     int controle, variavel2, vetor, x;
