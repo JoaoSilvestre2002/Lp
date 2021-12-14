@@ -13,5 +13,6 @@ int main()
         variavel2++;
         printf("%d \n", vetor[controle]);
     }
+    return 0;
 }
 
